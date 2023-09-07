@@ -1,0 +1,6 @@
+site_name: BUELEC WIKI 
+site_url: 
+theme:
+  name: readthedocs
+copyright: |
+  &copy; 2023 <a href="https://www.buelec-tech.com"  target="_blank" rel="noopener">BUELEC</a>
